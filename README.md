@@ -28,6 +28,8 @@ The information of a neural network is stored in the interconnections between th
 </br>
 </br>
 </br>
+
+
 ## Program:
 ```
 /*
@@ -82,6 +84,7 @@ print(model.predict(training_data).round())
 </br>
 </br>
 </br>
+
 
 
 ## Output:
